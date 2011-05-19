@@ -1,0 +1,1 @@
+javac -cp mail.jar:activation.jar:. Spammer.java
